@@ -13,3 +13,5 @@ You can create CRUD (Create, Read, Update and Delete) Operations using this cli 
 2. `todo read` - To read all the existing tasks,
 3. `todo update` - To update a specific task, and
 4. `todo delete` - To delete a specific task.
+
+Note:
