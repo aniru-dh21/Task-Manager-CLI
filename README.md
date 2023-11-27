@@ -18,4 +18,4 @@ Note:
 - To check for the version number, run this command: `todo -V` or `todo --version`.
 - For help, run this command: `todo -h` or `todo --help`.
 
-> **Note:** 
+> **Note:** Both update and delete operations require you to enter the **Todo code** of the task you want to update or delete.
