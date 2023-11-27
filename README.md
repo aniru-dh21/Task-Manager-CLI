@@ -16,3 +16,4 @@ You can create CRUD (Create, Read, Update and Delete) Operations using this cli 
 
 Note:
 - To check for the version number, run this command: `todo -V` or `todo --version`.
+- For help, run this command: `todo -h` or `todo --help`.
