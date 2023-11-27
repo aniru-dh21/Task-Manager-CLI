@@ -15,3 +15,4 @@ You can create CRUD (Create, Read, Update and Delete) Operations using this cli 
 4. `todo delete` - To delete a specific task.
 
 Note:
+- To check for the version number, run this command: `todo -V` or `todo --version`.
