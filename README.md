@@ -6,3 +6,5 @@ To set up this tool directly from this repository, you need to follow these step
 - After cloning it, run `npm install` command to install all dependencies
 - Next, create a `.env` file in the root directory of the project and add a variable called `MONGO_URI=` in the file and assign your MongoDB connection string to it
 - The last step is to install it globally in your system using the following command: `npm i -g`.
+
+## Supported Commands
