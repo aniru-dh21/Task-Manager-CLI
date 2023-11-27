@@ -9,4 +9,4 @@ To set up this tool directly from this repository, you need to follow these step
 
 ## Supported Commands
 You can create CRUD (Create, Read, Update and Delete) Operations using this cli tool. Here as a list of commands supported by tool:
-1. `todo add` -
+1. `todo add` - To create one or multiple new task,
