@@ -8,3 +8,4 @@ To set up this tool directly from this repository, you need to follow these step
 - The last step is to install it globally in your system using the following command: `npm i -g`.
 
 ## Supported Commands
+You can create CRUD (Create, Read, Update and Delete) Operations using this cli tool.
